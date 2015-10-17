@@ -1,3 +1,9 @@
+# Project folders #
+###################
+/.idea
+/target
+new.iml
+
 # Compiled source #
 ###################
 *.com
@@ -35,7 +41,3 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
-
-/.idea
-/target
-new.iml
